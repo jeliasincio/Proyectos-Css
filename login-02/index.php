@@ -23,7 +23,7 @@
             <span class="form_line"></span>
         </div>
         <div class="form_grupo">
-            <input type="text" id="password" class="form_input" placeholder=" " required >
+            <input type="password" id="password" class="form_input" placeholder=" " required >
             <label for="password" class="form_label">Contraseña:</label>
             <span class="form_line"></span>
         </div>
