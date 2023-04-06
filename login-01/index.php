@@ -24,11 +24,11 @@ if ($_POST) {
 <body>
 
     <div class="card login-box  ">
-        <div class="card-header text-center">
-            <h5> Iniciar Sesión</h5>
+        <div class="card-header">
+            <h5 class="titulo"> Iniciar Sesión</h5>
         </div>
         <div class="card-body">
-            <form action="index.php" method="post">
+            <form action="panel.php" method="post">
 
                 <label for=""> USUARIO</label> <input type="text" class="form-control" required name="usuario" id="">
                 <br />
